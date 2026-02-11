@@ -1,3 +1,5 @@
+* upstream: https://github.com/jynew/jynew
+
 # 群侠传，启动！（已正式完结）
 
 ![主宣传图](https://github.com/jynew/jynew/assets/7448857/b229deda-9687-499c-b4c5-32778eba9eda)
